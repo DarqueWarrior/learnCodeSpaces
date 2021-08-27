@@ -1,5 +1,4 @@
 {
-    "name": "Dapr Dev Env",
     "extensions": [
         "humao.rest-client"
     ]
